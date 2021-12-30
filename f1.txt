@@ -1,9 +1,10 @@
 hello world ???
 
 
-change done by team mate for wi3.
+change 1 done by team mate for wi3.
 
-changes made....
-change:for the bug2
-change : for the stash wi5
-change : for wi6 on local master to test normal push
+changes2 made....
+change3:for the bug2
+change4 : for the stash wi5
+change5 : for wi6 on local master to test normal push
+change 6: by teammate for remote master for bug3.
