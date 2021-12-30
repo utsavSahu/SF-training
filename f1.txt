@@ -3,8 +3,11 @@ hello world ???
 
 change 1 done by team mate for wi3.
 
+
 changes2 made....
 change3:for the bug2
 change4 : for the stash wi5
 change5 : for wi6 on local master to test normal push
 change 6: by teammate for remote master for bug3.
+change :- on local master for wi7 
+
